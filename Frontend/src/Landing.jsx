@@ -10,7 +10,7 @@ function Landing() {
 
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1 className='text-3xl bg-amber-500'>Landing Page</h1>
 
       <button className="chat-float-button" onClick={toggleChat}>
         💬
